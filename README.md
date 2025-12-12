@@ -76,12 +76,12 @@ The system operates using a **Master-Slave architecture**:
     ```cpp
     const char* ssid = "Your_SSID";          // 
     const char* password = "Your_Password";  // 
-    const char* BOTtoken = "Your_Bot_Token"; // [cite: 2]
-    const char* CHAT_IDS[] = {"Your_Chat_ID"}; // [cite: 2]
+    const char* BOTtoken = "Your_Bot_Token"; //
+    const char* CHAT_IDS[] = {"Your_Chat_ID"}; // 
     ```
 2.  **Thresholds:** You can adjust the temperature trigger in `masterbaruuu.ino`:
     ```cpp
-    const float TEMP_THRESHOLD = 35.0; // Trigger temp in Celsius [cite: 9]
+    const float TEMP_THRESHOLD = 35.0; // Trigger temp in Celsius
     ```
 
 ---
