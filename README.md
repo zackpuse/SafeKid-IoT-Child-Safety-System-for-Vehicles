@@ -1,5 +1,5 @@
 # 🛡️ SafeKid: IoT Child Safety System for Vehicles
-
+> **Note:** This project was developed as a **Final Year Project (Projek Tahun Akhir)** for the Diploma program.
 **SafeKid** is a dual-core IoT system designed to prevent vehicular heatstroke by detecting children left unattended in cars. It combines Computer Vision (Edge AI) with environmental monitoring to trigger automatic safety measures and real-time remote alerts via Telegram.
 
 ## 📋 System Overview
@@ -111,7 +111,17 @@ The system operates using a **Master-Slave architecture**:
 * **Relay Logic:** Relays are configured as **Active-LOW** (LOW signal turns them ON).
 
 ---
+## 👥 Project Team (Projek Tahun Akhir)
 
+**Developed by:**
+1.  **MUHAMMAD AFFAN NAZHAN BIN AZMI**
+2.  **MUHAMMAD RIDHUAN HAKIMI BIN OTHMAN JAILANI**
+3.  **NURIFFAH ARINA BINTI RAMLI**
+
+**Supervised by:**
+* **MOHD FADLI BIN MOHD TAHIR**
+
+---
 ## 📜 Credits
 
 * **Edge Impulse:** For the Machine Learning model training and export.
